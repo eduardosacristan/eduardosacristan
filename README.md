@@ -33,6 +33,7 @@ Hello, I'm Eduardo Sacristan!
 
 <p>
     <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
+	<img alt="angular" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
     <a href="https://spring.io/"><img alt="SPRING" src="https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
