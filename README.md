@@ -39,4 +39,5 @@ Hello, I'm Eduardo Sacristan!
     <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
     <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
+	[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 </p>
